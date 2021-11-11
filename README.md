@@ -19,7 +19,7 @@ Project Structure:
 The project is divided into two files:
 1. client. c
 2. server.c
-3. 
+
 The client.c file contains the code for client-side, which reads the text file and sends it to the server and the server.c file receives the data from the client and saves it in a text file.
 
 Client:
